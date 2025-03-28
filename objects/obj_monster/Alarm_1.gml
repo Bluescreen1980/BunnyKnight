@@ -1,0 +1,1 @@
+monster_currentspeed = monster_normalspeed;

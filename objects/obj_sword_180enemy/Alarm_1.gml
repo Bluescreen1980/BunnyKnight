@@ -1,0 +1,3 @@
+//after constructor
+
+depth = deepness;

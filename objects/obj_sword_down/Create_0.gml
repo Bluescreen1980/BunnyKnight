@@ -1,0 +1,10 @@
+//alarm[0]=sprite_get_speed(sprite_index)
+sword_xscale = global.sprite_scale*0.75;
+sword_yscale= global.sprite_scale*0.75;
+image_xscale = sword_xscale;
+image_yscale = sword_yscale;
+alarm[0]=20;
+depth = global.bunny_depth-1;
+offset_x = 8
+offset_y = 35
+offhandstrike = 3; // 3 default
